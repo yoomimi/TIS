@@ -1,6 +1,6 @@
 # [Silver III] 십자카드 문제 - 2659 
 
-[문제 링크]([https://www.acmicpc.net/problem/1010](https://www.acmicpc.net/problem/2659)) 
+[문제 링크](https://www.acmicpc.net/problem/2659)
 
 ### 성능 요약
 
